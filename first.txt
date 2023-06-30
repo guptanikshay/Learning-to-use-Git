@@ -1,0 +1,9 @@
+"This is version 1"
+
+I want this to go into commit 2
+
+This is the latest edition of first.txt
+
+New edition in progress
+
+This is now being modified for direct commit
