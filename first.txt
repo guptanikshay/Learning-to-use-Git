@@ -9,3 +9,5 @@ New edition in progress
 This is now being modified for direct commit
 
 Now we're uploaded to Github
+
+Modification to test alias command of git
